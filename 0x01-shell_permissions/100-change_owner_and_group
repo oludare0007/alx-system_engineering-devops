@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chowngrp vincent staff
+sudo chowngrp +x vincent staff
